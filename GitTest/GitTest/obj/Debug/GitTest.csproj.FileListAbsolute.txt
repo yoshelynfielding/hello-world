@@ -1,0 +1,6 @@
+C:\Development\Code\Hello-World\GitTest\GitTest\bin\Debug\GitTest.exe.config
+C:\Development\Code\Hello-World\GitTest\GitTest\bin\Debug\GitTest.exe
+C:\Development\Code\Hello-World\GitTest\GitTest\bin\Debug\GitTest.pdb
+C:\Development\Code\Hello-World\GitTest\GitTest\obj\Debug\GitTest.csprojResolveAssemblyReference.cache
+C:\Development\Code\Hello-World\GitTest\GitTest\obj\Debug\GitTest.exe
+C:\Development\Code\Hello-World\GitTest\GitTest\obj\Debug\GitTest.pdb
